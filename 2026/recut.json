@@ -1,0 +1,13 @@
+{
+  "name": "Recut",
+  "url": "https://getrecut.com/",
+  "description": "Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux",
+  "category": "media",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "$50 off, one-time purchase",
+  "pricing": "one-time",
+  "price": { "regular": 149, "sale": 99, "currency": "USD" },
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-04",
+  "icon": "https://getrecut.com/images/recut-icon-square-1024.png"
+}
